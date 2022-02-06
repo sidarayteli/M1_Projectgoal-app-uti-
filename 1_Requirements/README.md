@@ -21,3 +21,11 @@
 # 4W 1H
 ## Who
 * The machine can be used by anyone who has an ATM card.
+## What
+* It's a money-withdrawal mechanism that works automatically.
+## When
+* It is available 24X7, 365 days.
+## Where
+* It is available in various places.
+## How
+* This programme was written in C to prevent complication and keep things simple.
