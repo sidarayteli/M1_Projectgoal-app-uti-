@@ -9,8 +9,7 @@
 
 
 ## Low Level Requirement
-* How each feature is implemented
-* Linkage b/w high level to low level requirement
+
 
 
 # SWOt
