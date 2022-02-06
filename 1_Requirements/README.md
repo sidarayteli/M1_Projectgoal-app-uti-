@@ -2,7 +2,7 @@
 * Customers can use the Automated Teller Machine (ATM) to access their accounts without having to go to the bank. ATM Machine is the name of the project, which was created in C. When a user wants cash, they can input their PIN number (personal identification number), and the amount they want to withdraw will be presented in 100s, 500s, and 1000s. The sum will be debited from their account once their withdrawal was completed.
 # Requirements
 
-## High Level Requir
+## High Level Requirement
 
 ![hig](https://user-images.githubusercontent.com/46900710/152701750-a044441d-a53b-4550-aad2-49a328a45844.jpg)
 
@@ -17,8 +17,6 @@
 
 
 # SWOt
-
-![swot](https://user-images.githubusercontent.com/46900710/152700499-d4858de8-c21b-43f2-967d-9e078b9c36ec.jpg)
 
 
 
