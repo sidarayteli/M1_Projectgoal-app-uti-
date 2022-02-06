@@ -1,4 +1,4 @@
 * Cisco
-* * Sololearn
-* Hackerearth
+* Sololearn
 * Github
+* Hackerearth
