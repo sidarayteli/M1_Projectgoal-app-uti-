@@ -17,6 +17,9 @@
 
 # SWOt
 
+![swot](https://user-images.githubusercontent.com/46900710/152700499-d4858de8-c21b-43f2-967d-9e078b9c36ec.jpg)
+
+
 
 # 4W 1H
 ## Who
