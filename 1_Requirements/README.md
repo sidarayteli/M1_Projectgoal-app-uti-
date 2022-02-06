@@ -10,6 +10,7 @@
 
 ## Low Level Requirement
 
+![low](https://user-images.githubusercontent.com/46900710/152699053-b989c720-8eab-4a06-b0fe-647e4f471957.jpg)
 
 
 # SWOt
