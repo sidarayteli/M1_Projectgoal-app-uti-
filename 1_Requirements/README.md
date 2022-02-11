@@ -25,11 +25,12 @@
 # SWOT
 
 ## Strengths
-#* Easy to use Applications
-** Faster process
+# Easy to use Applications
+# Faster process
+
 ## Weaknesses
-* Lack of graphical user interface
-** Deadlines
+# Lack of graphical user interface
+# Deadlines
 
 
 
