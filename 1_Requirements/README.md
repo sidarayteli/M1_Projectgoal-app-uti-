@@ -20,7 +20,7 @@
                         
 * LR02_HR02 Output screen will display the overall balance 
 * LR03_HR03 Read user input to withdraw amount entered user exactly                                                                  
-            The receipt will be generated after copletion of transcation
+            The receipt will be generated after completion of transcation
 * LR04_HR04 Should display final updated balance after credit or debit
 
 
@@ -45,10 +45,10 @@
 ## Who
 * The machine can be used by anyone who has an ATM card.
 ## What
-* It's a money-withdrawal mechanism that works automatically.
+* It's a Money-withdrawal mechanism that works automatically.
 ## When
-* It is available 24X7, 365 days.
+* It is available 24X7, 365 days for service.
 ## Where
 * It is available in various places.
 ## How
-* This programme was written in C to prevent complication and keep things simple.
+* This programme was written in C to prevent complication and keep things simple to the user.
