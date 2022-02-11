@@ -4,15 +4,19 @@
 
 ## High Level Requirement
 
-![hig](https://user-images.githubusercontent.com/46900710/152701750-a044441d-a53b-4550-aad2-49a328a45844.jpg)
-
-
-
-
+* HR01 Atm machine should have mainMenu option
+* HR02 MainMenu contains Balance Enquiry option
+* HR03 MainMenu contains Withdraw option
+* HR04 MainMenu contains cash Deposit option
 
 ## Low Level Requirement
 
-* HR01
+* LR01 Verify whether the given input is in correct form or not
+** HR01  MainMenu option:
+                        1. Balance Enquiry
+                        2. Cash Withdraw
+                        3. Cash Deposit
+
 
 
 ![lo](https://user-images.githubusercontent.com/46900710/152701760-ccf2db7c-9d41-4c1f-aaa2-c1fd2aae5f37.jpg)
