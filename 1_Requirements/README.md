@@ -6,8 +6,8 @@
 
 * HR01 Atm machine should have mainMenu option
 * HR02 MainMenu contains Balance Enquiry option
-* HR03 MainMenu contains Withdraw option
-* HR04 MainMenu contains cash Deposit option
+* HR03 MainMenu contains cash Deposit option
+* HR04 MainMenu contains Withdraw option
 
 ## Low Level Requirement
 
@@ -19,9 +19,10 @@
                         4. Exit
                         
 * LR02_HR02 Output screen will display the overall balance 
-* LR03_HR03 Read user input to withdraw amount entered user exactly                                                                  
+* LR03_HR03 Should display final updated balance after credit or debit
+* LR04_HR04 Read user input to withdraw amount entered user exactly                                                                  
             The receipt will be generated after completion of transcation
-* LR04_HR04 Should display final updated balance after credit or debit
+
 
 
 # SWOT
