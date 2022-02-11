@@ -15,7 +15,8 @@
  HR01  MainMenu option:                                                                                                                                    
                         1. Balance Enquiry                                                                                                                                       
                         2. Cash Withdraw                                                                                                                      
-                        3. Cash Deposit
+                        3. Cash Deposit                                                                                                                  
+                        4. Exit
                         
 * LR02_HR02 Output screen will display the overall balance 
 * LR03_HR03 Read user input to withdraw amount entered user exactly
