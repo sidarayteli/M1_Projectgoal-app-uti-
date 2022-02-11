@@ -12,8 +12,7 @@
 ## Low Level Requirement
 
 * LR01 Reading user input to select perticular option
-
-#* HR01  MainMenu option:
+** HR01  MainMenu option:
                         1. Balance Enquiry
                         2. Cash Withdraw
                         3. Cash Deposit
