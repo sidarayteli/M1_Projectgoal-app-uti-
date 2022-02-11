@@ -22,18 +22,25 @@
 * LR04_HR04 Should display final updated balance after credit or debit
 
 
-# SWOt
+# SWOT
+
+## Strengths
+** Easy to use Applications
+** Faster process
+## Weaknesses
+** Lack of graphical user interface
+** Deadlines
 
 
 
 # 4W 1H
-## WHO
+## Who
 * The machine can be used by anyone who has an ATM card.
-## WHAT
+## What
 * It's a money-withdrawal mechanism that works automatically.
-## WHEN
+## When
 * It is available 24X7, 365 days.
-## WHERE
+## Where
 * It is available in various places.
-## HOW
+## How
 * This programme was written in C to prevent complication and keep things simple.
