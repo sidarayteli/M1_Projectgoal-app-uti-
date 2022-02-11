@@ -13,8 +13,8 @@
 
 * LR01 Reading user input to select perticular option                                                                                                                                                                                                                                                                                    
  HR01  MainMenu option:                                                                                                                                    
-                        1. Balance Enquiry
-                        2. Cash Withdraw
+                        1. Balance Enquiry                                                                                                                                       
+                        2. Cash Withdraw                                                                                                                      
                         3. Cash Deposit
 * LR02_HR02 Output screen will display the overall balance 
 * LR03_HR03 Read user input to withdraw amount entered user exactly
