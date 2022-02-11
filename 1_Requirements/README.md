@@ -19,10 +19,10 @@
                         4. Exit
                         
 * LR02_HR02 Output screen will display the overall balance 
-* LR03_HR03 Should display final updated balance after credit or debit
+* LR03_HR03 Should display final updated balance after credit or debit 
 * LR04_HR04 Read user input to withdraw amount entered user exactly                                                                  
             The receipt will be generated after completion of transcation
-
+* LR05      Exit:Ending the transaction
 
 
 # SWOT
