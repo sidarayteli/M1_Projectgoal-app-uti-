@@ -11,16 +11,14 @@
 
 ## Low Level Requirement
 
-* LR01 Verify whether the given input is in correct form or not
+* LR01 Reading user input to select perticular option
 ** HR01  MainMenu option:
                         1. Balance Enquiry
                         2. Cash Withdraw
                         3. Cash Deposit
-
-
-
-![lo](https://user-images.githubusercontent.com/46900710/152701760-ccf2db7c-9d41-4c1f-aaa2-c1fd2aae5f37.jpg)
-
+* LR02_HR02 Output screen will display the overall balance 
+* LR03_HR03 Read user input to withdraw amount entered user exactly
+* LR04_HR04 Should display final updated balance after credit or debit
 
 
 # SWOt
