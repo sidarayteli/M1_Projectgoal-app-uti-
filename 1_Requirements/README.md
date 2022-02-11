@@ -26,11 +26,11 @@
 
 ## Strengths
 * Easy to use Applications
-### Faster process
+* Faster process
 
 ## Weaknesses
-# Lack of graphical user interface
-# Deadlines
+* Lack of graphical user interface
+* Deadlines
 
 
 
