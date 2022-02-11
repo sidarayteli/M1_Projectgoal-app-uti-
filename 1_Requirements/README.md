@@ -32,7 +32,12 @@
 * Lack of graphical user interface
 * Deadlines
 
+## Opportunites
+* GUI can be implemented
 
+## Threats
+* Best applications are available
+* Competation is high
 
 # 4W 1H
 ## Who
