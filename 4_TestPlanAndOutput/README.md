@@ -19,5 +19,6 @@
 # Table
 * ID,Description of test case, Excepted output, Actual output
 
-![hig](https://user-images.githubusercontent.com/46900710/153703711-6cfa637f-c50d-4fa4-8ae5-02fae3cd3298.jpg) 
+![hig](https://user-images.githubusercontent.com/46900710/153703711-6cfa637f-c50d-4fa4-8ae5-02fae3cd3298.jpg)   ![lo](https://user-images.githubusercontent.com/46900710/153703722-58d8ba9c-96ee-4b5e-bcf3-50953bacc97a.jpg)
+
 
