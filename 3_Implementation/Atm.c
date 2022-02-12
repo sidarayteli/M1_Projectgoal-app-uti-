@@ -1,3 +1,15 @@
+/**
+ * @file Atm.c
+ * @author sidarayteli
+ * @brief  Atm machine application for BalanceEnquiry, Deposit, WITHDRAW
+ * @version 0.1
+ * @date 2022-02-12
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+ #include "atm.h"
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
@@ -67,6 +79,7 @@ int main() {
 
     return 0;
 }//main code
+*/
 
 
 
