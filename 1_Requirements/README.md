@@ -6,10 +6,10 @@
 
 ## High Level Requirement
 
-* HR01 Atm machine should have mainmenu option
-* HR02 MainMenu contains Balance Enquiry option
-* HR03 MainMenu contains cash Deposit option
-* HR04 MainMenu contains Withdraw option
+* HR01 Atm machine shall have mainmenu option
+* HR02 MainMenu shall contains Balance Enquiry option
+* HR03 MainMenu shall contains cash Deposit option
+* HR04 MainMenu shall contains Withdraw option
 
 ## Low Level Requirement
 
@@ -21,13 +21,13 @@
                         4. Exit
                         
 * LR02_HR02 Output screen will display the overall balance 
-* LR03_HR03 Should display final updated balance after credit or debit 
-* LR04_HR04 Read user input to withdraw amount entered user exactly                                                                  
+* LR03_HR03 Shall display final updated balance after credit or debit 
+* LR04_HR04 Shall Read user input to withdraw amount entered user exactly                                                                  
             The receipt will be generated after completion of transcation
 * LR05      Exit:Ending the transaction
 
 
-# SWOT
+# SWOT Analysis
 
 ## Strengths
 * Easy to use Applications
@@ -54,4 +54,4 @@
 ## Where
 * It is available in various places.
 ## How
-* This programme was written in C to prevent complication and keep things simple to the user.
+* This programme was written in C to prevent complication and keep things simple to the user. Its having options for cash withdraw, Balance enquiry and cash deposit when user pressed any of the options from mainmenu then that service gets provided to user by the ATM.
