@@ -66,7 +66,7 @@
 
 # Flowchart
 
-![fow](https://user-images.githubusercontent.com/46900710/153663634-046ab0a2-5058-4850-8038-14df4f6cf2e7.JPG)
+![flow2](https://user-images.githubusercontent.com/46900710/155838404-1ae5af80-15b0-4ec9-8cf2-44fb8286ceb9.JPG)
 
 
 # UML Diagram
