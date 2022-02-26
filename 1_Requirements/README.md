@@ -1,12 +1,12 @@
 # Title of the project
 ##  ATM MACHINE
 # Abstract
-* Customers can use the Automated Teller Machine (ATM) to access their accounts without having to go to the bank. ATM Machine is the name of the project, which was created in C. When a user wants cash, they can input their PIN number (personal identification number), and the amount they want to withdraw will be presented in 100s, 500s, and 1000s. The sum will be debited from their account once their withdrawal was completed.
+ Automated Teller Machine is belongs to embedded system, The main work of this machine is to provide banking services to customers so that it is included many facilities like balance enquiry, Cash withdraw and cash deposit. Customers can use the Automated Teller Machine (ATM) to access their accounts without having to go to the bank. This ATM machine project is implemented using C programming language. Its having mainmenu option where all facilities are provided like when a user wants cash, they can input their PIN number (personal identification number), and the amount they want to withdraw will be presented in 100s,200s, 500s, and 2000s. The sum will be debited from their account once their withdrawal was completed along with the balance will be displayed.
 # Requirements
 
 ## High Level Requirement
 
-* HR01 Atm machine should have mainMenu option
+* HR01 Atm machine should have mainmenu option
 * HR02 MainMenu contains Balance Enquiry option
 * HR03 MainMenu contains cash Deposit option
 * HR04 MainMenu contains Withdraw option
