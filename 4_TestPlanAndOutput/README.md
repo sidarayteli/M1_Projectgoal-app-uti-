@@ -1,5 +1,19 @@
 # Test plan and output
-* Results
+
+# Result Table
+## High Level Requirements Implemented
+![tab1 hlr](https://user-images.githubusercontent.com/46900710/155881670-e7d0fa09-8c89-4647-a13f-a74d748bac18.JPG)
+
+
+
+## Low Level Requirements Implemented
+
+![tab2llr](https://user-images.githubusercontent.com/46900710/155881664-4a5540f5-f4f8-441c-8392-3c4d903704ef.JPG)
+
+
+
+
+# Final Outputs
 
 ![Screenshot (180)](https://user-images.githubusercontent.com/46900710/153703548-4eecb60f-de52-4423-a7d4-5ea6a59558c2.png)
 
@@ -16,9 +30,7 @@
 
 
 
-# Table
-* ID,Description of test case, Excepted output, Actual output
 
-![hig](https://user-images.githubusercontent.com/46900710/153703711-6cfa637f-c50d-4fa4-8ae5-02fae3cd3298.jpg)   ![lo](https://user-images.githubusercontent.com/46900710/153703722-58d8ba9c-96ee-4b5e-bcf3-50953bacc97a.jpg)
+
 
 
