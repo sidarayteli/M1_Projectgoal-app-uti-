@@ -17,5 +17,5 @@
 # Block Diagram
 ![ATM_blackdia](https://user-images.githubusercontent.com/46900710/155879583-2ab9022d-c1f1-40a4-8800-8739d870d4e9.JPG)
 
-# Explaination
-A
+# Block Diagram Explaination
+Automated Teller Machine is provides banking services to customers so that it is included many facilities like balance enquiry, Cash withdraw and cash deposit. Its having mainmenu option where all facilities are provided like balance enquiry, Cash withdraw and deposit. When a user wants cash, they can enter the withdraw option then machine asks user to enter amount for withdrawl after entering the amount user will get the cash and remaining balance in user account will be displayed. If you want to know how much amount is there in your account then enter display option of ATM then balance will be displayed. If you want to deposit money enter the option deposit then machine asks you to enter amount for deposition after entering the amount machine will display total amount present in your account. After all process it says to the customer 'thank you for visiting'. So this is the working of Automated Teller Machine.
