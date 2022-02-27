@@ -79,8 +79,22 @@
 # Block Diagram Explaination
 Automated Teller Machine is provides banking services to customers so that it is included many facilities like balance enquiry, Cash withdraw and cash deposit. Its having mainmenu option where all facilities are provided like balance enquiry, Cash withdraw and deposit. When a user wants cash, they can enter the withdraw option then machine asks user to enter amount for withdrawl after entering the amount user will get the cash and remaining balance in user account will be displayed. If you want to know how much amount is there in your account then enter display option of ATM then balance will be displayed. If you want to deposit money enter the option deposit then machine asks you to enter amount for deposition after entering the amount machine will display total amount present in your account. After all process it says to the customer 'thank you for visiting'. So this is the working of Automated Teller Machine.
 
+
+
 # Test plan and output
-* Results
+
+# Result Tables
+## 1] High Level Requirements Implemented
+![tab1 hlr](https://user-images.githubusercontent.com/46900710/155881670-e7d0fa09-8c89-4647-a13f-a74d748bac18.JPG)
+
+
+
+## 2] Low Level Requirements Implemented
+
+![tab2llr](https://user-images.githubusercontent.com/46900710/155881664-4a5540f5-f4f8-441c-8392-3c4d903704ef.JPG)
+
+
+# Final Outputs
 
 ![Screenshot (180)](https://user-images.githubusercontent.com/46900710/153703548-4eecb60f-de52-4423-a7d4-5ea6a59558c2.png)
 
@@ -97,9 +111,13 @@ Automated Teller Machine is provides banking services to customers so that it is
 
 
 
-# Table
-* ID,Description of test case, Excepted output, Actual output
+# Result Explaination
+Automated Teller Machine is implemented using C programming language because to prevent complication and kept things simple to the user. Its having options for cash withdraw, Balance enquiry and cash deposit when user pressed any of the options from mainmenu then that service gets provided to user by the ATM.
+All high level and low level requirements are implemented. And all snapshots of each and every requirements are posted above.
 
-![hig](https://user-images.githubusercontent.com/46900710/153703711-6cfa637f-c50d-4fa4-8ae5-02fae3cd3298.jpg)   ![lo](https://user-images.githubusercontent.com/46900710/153703722-58d8ba9c-96ee-4b5e-bcf3-50953bacc97a.jpg)
+
+
+
+
 
 
