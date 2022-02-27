@@ -1,6 +1,6 @@
 # Test plan and output
 
-# Result Table
+# Result Tables
 ## High Level Requirements Implemented
 ![tab1 hlr](https://user-images.githubusercontent.com/46900710/155881670-e7d0fa09-8c89-4647-a13f-a74d748bac18.JPG)
 
