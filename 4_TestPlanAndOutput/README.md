@@ -1,12 +1,12 @@
 # Test plan and output
 
 # Result Tables
-## High Level Requirements Implemented
+## 1] High Level Requirements Implemented
 ![tab1 hlr](https://user-images.githubusercontent.com/46900710/155881670-e7d0fa09-8c89-4647-a13f-a74d748bac18.JPG)
 
 
 
-## Low Level Requirements Implemented
+## 2] Low Level Requirements Implemented
 
 ![tab2llr](https://user-images.githubusercontent.com/46900710/155881664-4a5540f5-f4f8-441c-8392-3c4d903704ef.JPG)
 
