@@ -27,7 +27,7 @@
 * LR05      Exit:Ending the transaction
 
 
-# SWOT Analysis
+# SWOT
 
 ## Strengths
 * Easy to use Applications
