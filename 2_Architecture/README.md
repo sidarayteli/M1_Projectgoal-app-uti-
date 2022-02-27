@@ -16,3 +16,6 @@
 
 # Block Diagram
 ![ATM_blackdia](https://user-images.githubusercontent.com/46900710/155879583-2ab9022d-c1f1-40a4-8800-8739d870d4e9.JPG)
+
+# Explaination
+A
