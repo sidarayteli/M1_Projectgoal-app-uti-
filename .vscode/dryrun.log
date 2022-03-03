@@ -1,4 +1,7 @@
-make.exe --dry-run --always-make --keep-going --print-directory
-'make.exe' is not recognized as an internal or external command,
-operable program or batch file.
+make.exe --dry-run --keep-going --print-directory
+make.exe: Entering directory `c:/Users/Asus/Downloads/M1_Projectgoal-app-uti--1/M1_Projectgoal-app-uti-'
+ 
+make.exe: *** No targets specified and no makefile found.  Stop.
+ 
+make.exe: Leaving directory `c:/Users/Asus/Downloads/M1_Projectgoal-app-uti--1/M1_Projectgoal-app-uti-'
  
