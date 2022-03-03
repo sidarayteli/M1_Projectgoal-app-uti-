@@ -1,6 +1,6 @@
 /**
  * @file Atm.h
-  * @author sidarayteli
+ * @author sidarayteli
  * @brief  Atm machine application for BalanceEnquiry, Deposit, WITHDRAW
  * @version 0.1
  * @date 2022-02-12
