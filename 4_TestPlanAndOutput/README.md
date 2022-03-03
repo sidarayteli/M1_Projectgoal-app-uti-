@@ -28,7 +28,7 @@
 
 
 
-# Result Explaination
+# Result Explaination and Conclusion
 Automated Teller Machine is implemented using C programming language because to prevent complication and kept things simple to the user. Its having options for cash withdraw, Balance enquiry and cash deposit when user pressed any of the options from mainmenu then that service gets provided to user by the ATM.
 All high level and low level requirements are implemented. And all snapshots of each and every requirements are posted above.
 
