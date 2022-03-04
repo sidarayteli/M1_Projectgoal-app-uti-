@@ -1,6 +1,0 @@
-make.exe --dry-run --always-make --keep-going --print-directory
-make.exe: Entering directory `c:/Users/Asus/Downloads/M1_Projectgoal-app-uti--2'
-make.exe: Leaving directory `c:/Users/Asus/Downloads/M1_Projectgoal-app-uti--2'
- 
-make.exe: *** No targets specified and no makefile found.  Stop.
- 
