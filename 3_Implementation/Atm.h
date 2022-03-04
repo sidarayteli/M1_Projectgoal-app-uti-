@@ -13,13 +13,16 @@
 #ifndef ATM_H
 #define ATM_H
 
-//Functions
+//#include "atm.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdbool.h>
+#include <math.h>
+
+
+//Functions declarations
 void login();
-void mainMenu();
-void checkBalance(float balance);
 float moneyDeposit(float balance);
 float moneyWithdraw(float balance);
-void menuExit();
-void errorMessage();
 #endif
 
