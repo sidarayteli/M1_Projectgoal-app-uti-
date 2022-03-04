@@ -6,8 +6,8 @@ BUILD = build
 
 # All source code files
 SRC = main.c\
-src/balance.c\
-src/deposit.c\
+src/balanceEnquiry.c\
+src/Moneydeposit.c\
 src/error.c\
 src/exit.c\
 src/Menu.c\
