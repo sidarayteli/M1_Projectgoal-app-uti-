@@ -7,12 +7,12 @@ on:
     branches: [ main ]
 
 jobs:
-  build: Build
+  build:
 
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
     - name: make
-      run: make run -C 3_Implementation
+      run: make run -C 3_Implementation/
  
