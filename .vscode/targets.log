@@ -8,7 +8,7 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # This program built for i386-pc-mingw32
  
 
-# Make data base, printed on Thu Mar 03 22:38:01 2022
+# Make data base, printed on Fri Mar 04 14:03:38 2022
 
 # Variables
 
@@ -31,7 +31,7 @@ HOMEDRIVE = C:
 # automatic
 ^D = $(patsubst %/,%,$(dir $^))
 # makefile
-CURDIR := c:/Users/Asus/Downloads/M1_Projectgoal-app-uti--1/M1_Projectgoal-app-uti-
+CURDIR := c:/Users/Asus/Downloads/M1_Projectgoal-app-uti--2
 # default
 SHELL := C:/WinAVR-20100110/utils/bin/sh.exe
 # environment
@@ -55,7 +55,7 @@ PROGRAMW6432 = C:\Program Files
 # environment
 PROGRAMDATA = C:\ProgramData
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-49d86855-58b5-4f8c-8b26-33028d423501-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-8aafe5ac-5a52-447f-b31c-f975e18088fc-sock
 # environment
 VSCODE_CWD = C:\Users\Asus\AppData\Local\Programs\Microsoft VS Code
 # environment
@@ -79,7 +79,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_1080_URVHQXJZGSDXMMTF
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_3428_KMDSAYULTIDTYXEP
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
@@ -97,9 +97,9 @@ USERNAME = Asus
 # environment
 PUBLIC = C:\Users\Public
 # environment
-VSCODE_AMD_ENTRYPOINT = vs/workbench/services/extensions/node/extensionHostProcess
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\Asus\AppData\Roaming\Code\CachedData\f80445acd5a3dadef24aa209168452a3d97cc326
+VSCODE_CODE_CACHE_PATH = C:\Users\Asus\AppData\Roaming\Code\CachedData\b5205cc8eb4fbaa726835538cd82372cc0222d43
 # environment
 APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
@@ -143,7 +143,7 @@ PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
 # environment
 OS = Windows_NT
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\0fa17afad6f8282a945944de898e061c-1.64.2-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\0fa17afad6f8282a945944de898e061c-1.65.0-main-sock
 # environment
 HOMEPATH = \Users\Asus
 # environment
@@ -191,7 +191,7 @@ PROCESSOR_LEVEL = 6
 # environment
 FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
-VSCODE_PID = 1080
+VSCODE_PID = 3428
 # environment
 USERDOMAIN_ROAMINGPROFILE = DESKTOP-B3TBN41
 # variable set hash-table stats:
@@ -203,11 +203,11 @@ USERDOMAIN_ROAMINGPROFILE = DESKTOP-B3TBN41
 
 # Directories
 
-# . (key c:/Users/Asus/Downloads/M1_Projectgoal-app-uti--1/M1_Projectgoal-app-uti-, mtime 1646326363): 12 files, no impossibilities.
+# . (key c:/Users/Asus/Downloads/M1_Projectgoal-app-uti--2, mtime 1646375672): 13 files, no impossibilities.
 # C:\WinAVR-20100110\bin (key C:/WinAVR-20100110/bin, mtime 1645293305): 75 files, no impossibilities.
 # C:\WinAVR-20100110\utils\bin (key C:/WinAVR-20100110/utils/bin, mtime 1645293335): 99 files, no impossibilities so far.
 
-# 186 files, no impossibilities in 3 directories.
+# 187 files, no impossibilities in 3 directories.
 
 # Implicit Rules
 
@@ -269,7 +269,7 @@ GNUmakefile:
 # strcache size: total = 0 / max = 0 / min = 4096 / avg = 0
 # strcache free: total = 0 / max = 0 / min = 4096 / avg = 0
 
-# Finished Make data base on Thu Mar 03 22:38:01 2022
+# Finished Make data base on Fri Mar 04 14:03:38 2022
 
  
 make.exe: *** No rule to make target `all'.  Stop.
