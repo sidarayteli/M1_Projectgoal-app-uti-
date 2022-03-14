@@ -1,5 +1,6 @@
+[![Codacy Security Scan](https://github.com/sidarayteli/M1_Projectgoal-app-uti-/actions/workflows/codacy.yml/badge.svg)](https://github.com/sidarayteli/M1_Projectgoal-app-uti-/actions/workflows/codacy.yml)
 
-# M1_Projectgoal-app-uti-
+# Module-1 Project: ATM Application 
 ## Milestone-1: Cprogrmming Module
 ## Folder Structure
 
